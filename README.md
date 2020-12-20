@@ -1,1 +1,1 @@
-# Kickstart_projects_predictive_model
+# Kickstart projects predictive model
